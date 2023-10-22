@@ -5,7 +5,7 @@
     arrows: true,
     focusOnSelect: true,
     autoplay:true,
-    autoplaySpeed: 3000, // Specify the time interval in milliseconds between slides
+    autoplaySpeed: 4000, // Specify the time interval in milliseconds between slides
   });
   $('.slider-nav1').slick({
     slidesToShow: 1,
@@ -14,5 +14,7 @@
     arrows: true,
     focusOnSelect: true,
     autoplay:true,
-    autoplaySpeed: 3000, // Specify the time interval in milliseconds between slides
+    autoplaySpeed: 4000, // Specify the time interval in milliseconds between slides
   });
+
+
